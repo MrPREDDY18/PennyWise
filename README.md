@@ -122,7 +122,7 @@ Keeps track of user actions within the app, like visiting screens or performing 
 
 ## Demo Video
 - Professional Demo Video with Voice-over:
-https://youtube.com/shorts/Clux5bNJmgs
+https://youtube.com/shorts/neDR3Sexx0Q?feature=share
 - A compressed version of the video is included in the ZIP submission.
 
 ## Research and Design Documents
