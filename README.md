@@ -131,8 +131,6 @@ https://youtube.com/shorts/Clux5bNJmgs
   - Research Document (Technology Choices, Tools, Market Research)
   - Design Justifications (Why certain features and UI decisions were made)
 
-## Project Structure
-
 ---
 
 ## Project Structure
