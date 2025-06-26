@@ -133,25 +133,34 @@ https://youtube.com/shorts/Clux5bNJmgs
 
 ## Project Structure
 
-/app
- ├── java/com/yourpackage
- │    ├── LoginActivity.java
- │    ├── SignupActivity.java
- │    ├── MainActivity.java
- │    ├── ExpenseEntryActivity.java
- │    ├── ExpenseFilterActivity.java
- │    ├── GraphActivity.java            
- │    ├── GamificationActivity.java     
- │    └── ... (other activities)
- ├── res/
- │    ├── layout/
- │    ├── drawable/
- │    └── values/
- └── AndroidManifest.xml
-/docs
- ├── design_document.pdf
- ├── research_document.pdf
- └── other_files.pdf
+---
+
+## Project Structure
+
+/app  
+ ├── java/com/yourpackage  
+ │    ├── LoginActivity.java  
+ │    ├── SignupActivity.java  
+ │    ├── MainActivity.java  
+ │    ├── ExpenseEntryActivity.java  
+ │    ├── ExpenseFilterActivity.java  
+ │    ├── GraphActivity.java  
+ │    ├── GamificationActivity.java  
+ │    ├── UserProfileManager.java  
+ │    ├── ActivityLogger.java  
+ │    └── ... (other activities)  
+ ├── res/  
+ │    ├── layout/  
+ │    ├── drawable/  
+ │    └── values/  
+ └── AndroidManifest.xml  
+
+/docs  
+ ├── design_document.pdf  
+ ├── research_document.pdf  
+ └── other_files.pdf  
+
+---
 
 
 ## Code Quality
